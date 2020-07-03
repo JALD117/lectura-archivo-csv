@@ -1,5 +1,5 @@
-ID,Nombre,Edad
-1,José,23
-2,Alejandro,25
-3,López,22
-4,Doblado,20
+ID,Nombre,Edad,Semestre,Carrera,Instituto
+1,José,23,6,Ingeniería En Sistemas Computacionales,ITCH
+2,Alejandro,25,4,Ingeniería en Tecnologias de Información y Comunicación,ITCH
+3,López,22,8,Licenciatura en Psicología,VISCAYA
+4,Doblado,20,2,Licenciatura en Derecho,UQROO
